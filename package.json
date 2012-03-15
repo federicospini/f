@@ -6,13 +6,13 @@
   },
   "name": "f",
   "description": "JavaScript functional library",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "homepage": "https://github.com/onirame/f",
   "repository": {
     "type": "git",
-    "url": "{{repository.url}}"
+    "url": "git://github.com/onirame/f.git"
   },
-  "main": "{{project.main}}",
+  "main": "./index.js",
   "engines": {
     "node": "*"
   },

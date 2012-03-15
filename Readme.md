@@ -1,4 +1,4 @@
-# f
+# ƒ
 
 JavaScript functional library
 
