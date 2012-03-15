@@ -6,11 +6,24 @@ JavaScript functional library
 
     npm install f
 
+## API
+
+- ƒ.aa
+- ƒ.apply
+- ƒ.comp
+- ƒ.comp2
+- ƒ.cons
+- ƒ.id
+- ƒ.k
+- ƒ.cat
+- ƒ.distl
+- ƒ.distr
+
 ## License
 
 (The MIT License)
 
-Copyright (c) 2011 Enrico Marino &lt;enrico.marino@email.com&gt;
+Copyright (c) 2012 Enrico Marino &lt;enrico.marino@email.com&gt;
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
